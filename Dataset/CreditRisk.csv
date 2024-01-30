@@ -1,4 +1,4 @@
-status,seniority,home,time,age,marital,records,job,expenses,income,assets,debt,amount,price
+Status,Seniority,Home,Time,Age,mariTal,Records,Job,Expenses,Income,Assets,Debt,Amount,Price
 ok,9,rent,60,30,married,no,freelance,73,129,0,0,800,846
 ok,17,rent,60,58,widow,no,fixed,48,131,0,0,1000,1658
 default,10,owner,36,46,married,yes,freelance,90,200,3000,0,2000,2985
